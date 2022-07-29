@@ -1,4 +1,3 @@
-print ('monji')
 import math
 from api_rubika import Bot
 import datetime
